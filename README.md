@@ -1,8 +1,6 @@
 ## Project Report
 
-This package also includes a RMarkdown template for use in the project
-report. Go to File\>New\>R Markdown… and choose from `From Template`
-then `project-report`. There are four sections in the report
+There are four sections in the rethinking prediction project:
 
   - Introduction and literature review
   - Data and methodology
